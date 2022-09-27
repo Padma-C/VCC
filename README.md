@@ -3,6 +3,8 @@ RESULT
 
 - Used the VCC-UI design system component library
 - Added an option to filter cars by bodyType
+
+
 DESKTOP
 <img width="1101" alt="Desktop_NoFilter" src="https://user-images.githubusercontent.com/70318742/192528025-86fb00e3-91ee-45f3-a77a-828a8731d81c.png">
 
